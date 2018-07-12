@@ -1,1 +1,3 @@
-# Just a collection of Java projects
+# Java Projects 
+
+Just a collection of Java projects
